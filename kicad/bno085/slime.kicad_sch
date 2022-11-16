@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "slime_minimax with bno085")
+    (date "2022-11-16")
+    (rev "c")
+  )
+
   (lib_symbols
     (symbol "Battery_Management:BQ297xy" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -6.35 6.35 0)

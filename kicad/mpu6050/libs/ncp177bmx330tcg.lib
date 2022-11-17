@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# slime-rescue_NCP177BMX330TCG-Regulator_Linear
+#
+DEF slime-rescue_NCP177BMX330TCG-Regulator_Linear U 0 40 Y Y 1 F N
+F0 "U" 50 350 50 H V C CNN
+F1 "slime-rescue_NCP177BMX330TCG-Regulator_Linear" 50 250 50 H V C CNN
+F2 "" 50 350 50 H I C CNN
+F3 "" 50 350 50 H I C CNN
+DRAW
+S -200 150 350 -200 0 1 10 f
+X OUT 1 450 100 100 L 50 50 1 1 w
+X GND 2 250 -300 100 U 50 50 1 1 W
+X EN 3 -100 -300 100 U 50 50 1 1 I
+X IN 4 -300 100 100 R 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+#End Library

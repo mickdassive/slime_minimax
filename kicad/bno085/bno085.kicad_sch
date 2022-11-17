@@ -2975,7 +2975,7 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060e4ae03)
     (property "Reference" "U2" (id 0) (at 58.42 128.27 0))
-    (property "Value" "BQ297xy" (id 1) (at 57.15 142.24 0))
+    (property "Value" "BQ29701DSET" (id 1) (at 59.69 142.24 0))
     (property "Footprint" "Package_SON:WSON-6_1.5x1.5mm_P0.5mm" (id 2) (at 52.07 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4190,7 +4190,7 @@
       (reference "U1") (unit 1) (value "MCP73832-2-OT") (footprint "Package_DFN_QFN:DFN-8-1EP_2x3mm_P0.5mm_EP0.61x2.2mm")
     )
     (path "/00000000-0000-0000-0000-000060e4ae03"
-      (reference "U2") (unit 1) (value "BQ297xy") (footprint "Package_SON:WSON-6_1.5x1.5mm_P0.5mm")
+      (reference "U2") (unit 1) (value "BQ29701DSET") (footprint "Package_SON:WSON-6_1.5x1.5mm_P0.5mm")
     )
     (path "/00000000-0000-0000-0000-000060e548a0"
       (reference "U3") (unit 1) (value "CSD85302L") (footprint "Package_DirectFET:4-XFLGA")

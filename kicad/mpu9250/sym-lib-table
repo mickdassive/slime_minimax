@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "slime-rescue")(type "Legacy")(uri "${KIPRJMOD}/slime-rescue.lib")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/symbols/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "mpu9250")(type "KiCad")(uri "${KIPRJMOD}/symbols/mpu9250.kicad_sym")(options "")(descr ""))
+)

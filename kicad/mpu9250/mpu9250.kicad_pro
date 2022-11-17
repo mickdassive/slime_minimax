@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mpu2950.kicad_pro",
+    "filename": "bmi160.kicad_pro",
     "version": 1
   },
   "net_settings": {

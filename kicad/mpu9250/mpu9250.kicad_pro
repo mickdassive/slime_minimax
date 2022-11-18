@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.6,
+          "width": 1.75
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -106,7 +106,7 @@
         "allow_blind_buried_vias": true,
         "allow_microvias": true,
         "max_error": 0.005,
-        "min_clearance": 0.0012699999999999999,
+        "min_clearance": 0.0,
         "min_copper_edge_clearance": 0.024999999999999998,
         "min_hole_clearance": 0.19999999999999998,
         "min_hole_to_hole": 0.5,
@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "bmi160.kicad_pro",
+    "filename": "mpu9250.kicad_pro",
     "version": 1
   },
   "net_settings": {

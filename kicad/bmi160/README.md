@@ -1,2 +1,2 @@
 # bmi160
-WIP DO NOT USE
+this shold work however it has not been tested irl

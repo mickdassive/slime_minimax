@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP KC2520Z
-D 1.8432MHz ~ 125MHz Crystal Oscillator
-K xo
-F https://global.kyocera.com/prdct/electro/product/pdf/clock_z_xz_e.pdf
-$ENDCMP
-#
-#End Doc Library

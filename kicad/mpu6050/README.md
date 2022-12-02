@@ -1,2 +1,0 @@
-# mpu6050
-WIP DO NOT USE

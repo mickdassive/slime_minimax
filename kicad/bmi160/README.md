@@ -1,2 +1,0 @@
-# bmi160
-WIP DO NOT USE
